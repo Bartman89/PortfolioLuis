@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Bartman89/PortfolioLuis.git/static/css/main.dc4d6ff2.css",
-    "main.js": "/Bartman89/PortfolioLuis.git/static/js/main.caac2d09.js",
-    "index.html": "/Bartman89/PortfolioLuis.git/index.html",
-    "main.dc4d6ff2.css.map": "/Bartman89/PortfolioLuis.git/static/css/main.dc4d6ff2.css.map",
-    "main.caac2d09.js.map": "/Bartman89/PortfolioLuis.git/static/js/main.caac2d09.js.map"
+    "main.css": "/PortfolioLuis/static/css/main.dc4d6ff2.css",
+    "main.js": "/PortfolioLuis/static/js/main.caac2d09.js",
+    "index.html": "/PortfolioLuis/index.html",
+    "main.dc4d6ff2.css.map": "/PortfolioLuis/static/css/main.dc4d6ff2.css.map",
+    "main.caac2d09.js.map": "/PortfolioLuis/static/js/main.caac2d09.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
